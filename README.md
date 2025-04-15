@@ -19,10 +19,13 @@
 
 <h3 align="left">🏅 Badges</h3>
 <p align="left">
-  <a href="https://www.credly.com/badges/cf9e23a5-6712-46ed-8046-c5ca413286d0/public_url" target="_blank">
+  <a href="https://www.credly.com/earner/earned/badge/45b8dabc-4173-4593-b9d3-a54b1ba44019" target="_blank">
     <img src="https://github.com/Sathwika-29/Sathwika-29/blob/main/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS CQP" width="120" height="120"/>
   </a>
-  <a href="https://www.credly.com/badges/cf9e23a5-6712-46ed-8046-c5ca413286d0/public_url" target="_blank">
+  <a href="https://www.credly.com/earner/earned/badge/45b8dabc-4173-4593-b9d3-a54b1ba44019" target="_blank">
+    <img src="https://github.com/Sathwika-29/Sathwika-29/blob/main/aws-re-start-graduate-2.png?raw=true" alt="AWS re/Start Graduate" width="120" height="120"/>
+  </a>
+  <a href="https://www.credly.com/earner/earned/badge/45b8dabc-4173-4593-b9d3-a54b1ba44019" target="_blank">
     <img src="https://github.com/Sathwika-29/Sathwika-29/blob/main/aws-re-start-graduate-2.png?raw=true" alt="AWS re/Start Graduate" width="120" height="120"/>
   </a>
 </p>
