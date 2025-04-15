@@ -22,10 +22,13 @@
   <a href="https://www.credly.com/earner/earned/badge/45b8dabc-4173-4593-b9d3-a54b1ba44019" target="_blank">
     <img src="https://github.com/Sathwika-29/Sathwika-29/blob/main/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS CQP" width="120" height="120"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/45b8dabc-4173-4593-b9d3-a54b1ba44019" target="_blank">
+  <a href="https://www.credly.com/badges/2688f6f6-f96e-43ae-985c-45fe4d3d7af4" target="_blank">
     <img src="https://github.com/Sathwika-29/Sathwika-29/blob/main/aws-re-start-graduate-2.png?raw=true" alt="AWS re/Start Graduate" width="120" height="120"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/45b8dabc-4173-4593-b9d3-a54b1ba44019" target="_blank">
-    <img src="https://github.com/Sathwika-29/Sathwika-29/blob/main/aws-re-start-graduate-2.png?raw=true" alt="AWS re/Start Graduate" width="120" height="120"/>
+  <a href="https://www.credly.com/badges/aaa8283e-d2a7-4221-9293-8fc75b7232d2" target="_blank">
+    <img src="https://github.com/Sathwika-29/Sathwika-29/blob/main/CF.png?raw=true" alt="cloud Foundation" width="120" height="120"/>
+  </a>
+  <a href="https://www.credly.com/badges/3a53bb47-c437-4aa3-840c-4f8d699c802b" target="_blank">
+    <img src="https://github.com/Sathwika-29/Sathwika-29/blob/main/ML.png?raw=true" alt="Machine language" width="120" height="120"/>
   </a>
 </p>
