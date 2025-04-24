@@ -31,4 +31,7 @@
   <a href="https://www.credly.com/badges/3a53bb47-c437-4aa3-840c-4f8d699c802b" target="_blank">
     <img src="https://github.com/Sathwika-29/Sathwika-29/blob/main/ML.png?raw=true" alt="Machine language" width="120" height="120"/>
   </a>
+  <a href="https://www.credly.com/badges/3a53bb47-c437-4aa3-840c-4f8d699c802b" target="_blank">
+    <img src="https://github.com/Sathwika-29/Sathwika-29/blob/main/aws-certified-cloud-practitioner.png?raw=true" alt="Machine language" width="120" height="120"/>
+  </a>
 </p>
